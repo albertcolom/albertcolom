@@ -12,6 +12,7 @@ I'm a backend developer from Barcelona based in Berlin
 - 🍺 Beer
 
 ## ⚡​ My latest posts
+- [How to use migrations with Golang](https://albertcolom.com/how-to-use-migrations-with-golang/)
 - [Top 10 Most Used Regex Patterns](https://albertcolom.com/top-10-most-used-regex-patterns/)
 - [Easy steps to install K3s with SSL certificate by traefik, cert manager and Let’s Encrypt](https://albertcolom.com/easy-steps-to-install-k3s-with-ssl-certificate-by-traefik-cert-manager-and-lets-encrypt/)
 - [Create your first Golang Lambda With Serverless Framework](https://albertcolom.com/create-your-first-golang-lambda-with-serverless-framework/)

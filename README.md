@@ -2,7 +2,7 @@
 
 I'm a backend developer from Barcelona based in Berlin
 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/albert-colom-mulet) - [Twitter](https://twitter.com/_albertcolom)
+- 📫 How to reach me: [My Blog](https://albertcolom.com/) - [Linkedin](https://www.linkedin.com/in/albert-colom-mulet) - [Twitter](https://twitter.com/_albertcolom)
 - 👨🏽‍💻 Follow my work: [GitHub](https://github.com/albertcolom) - [Medium](https://medium.com/@albertcolom) - [Dev.to](https://dev.to/colom)
 
 ## ⭐ Some of my interests

@@ -14,7 +14,6 @@ I'm a backend developer from Barcelona based in Berlin
 ## ⚡​ My latest posts
 - [How to process gigantic files in Golang — Fast and Memory-Efficient](https://albertcolom.com/posts/how-to-process-gigantic-files-in-golang-fast-and-memory-efficient/)
 - [How to use migrations with Golang](https://albertcolom.com/posts/how-to-use-migrations-with-golang/)
-- [Top 10 Most Used Regex Patterns](https://albertcolom.com/posts/top-10-most-used-regex-patterns/)
 - [Easy steps to install K3s with SSL certificate by traefik, cert manager and Let’s Encrypt](https://albertcolom.com/posts/easy-steps-to-install-k3s-with-ssl-certificate-by-traefik-cert-manager-and-lets-encrypt/)
 - [Create your first Golang Lambda With Serverless Framework](https://albertcolom.com/posts/create-your-first-golang-lambda-with-serverless-framework/)
 - [Use Arrow Function in PHP with examples](https://albertcolom.com/posts/use-arrow-function-in-php-with-examples/)
